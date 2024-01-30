@@ -1,0 +1,166 @@
+repo_name: murphysarah22/jquery.i18n
+report_id: 25a50ba20e47d7cf06933875390f3a7d
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-30T05:22:03+00:00'
+requested_by: amire80
+provider: github
+branch: master
+detected_tools_count: 12
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n
+  detection_source: Repo Metadata
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Amir Aharoni
+  last_updated_on: 2020-05-26 09:08:00.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Santhosh Thottingal
+  last_updated_on: 2012-08-31 08:51:44.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Amir Aharoni
+  last_updated_on: 2020-05-26 09:08:00.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  version: 2.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Santhosh Thottingal
+  last_updated_on: 2012-08-31 08:51:44.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Santhosh Thottingal
+  last_updated_on: 2012-09-09 10:54:05.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Santhosh Thottingal
+  last_updated_on: 2012-08-31 08:51:44.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Amir Aharoni
+  last_updated_on: 2020-05-26 09:08:00.000000000 Z
+- name: grunt-contrib-qunit
+  description: Run QUnit unit tests in a headless Chrome instance
+  package_url: https://www.npmjs.com/grunt-contrib-qunit
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Amir Aharoni
+  last_updated_on: 2020-05-26 09:08:00.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Amir Aharoni
+  last_updated_on: 2020-05-26 09:08:00.000000000 Z
+- name: grunt-eslint
+  description: Validate files with ESLint
+  package_url: https://www.npmjs.com/grunt-eslint
+  version: 23.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16384/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/murphysarah22/jquery.i18n/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Amir Aharoni
+  last_updated_on: 2020-05-26 09:08:00.000000000 Z
