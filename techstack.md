@@ -3,11 +3,11 @@
 ## Tech Stack
 murphysarah22/jquery.i18n is built on the following main stack:
 
-- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [QUnit](http://qunitjs.com/) – Javascript Testing Framework
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [ESLint](http://eslint.org/) – Code Review
+- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- [QUnit](http://qunitjs.com/) – Javascript Testing Framework
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -18,11 +18,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 murphysarah22/jquery.i18n is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'/> [QUnit](http://qunitjs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'/> [QUnit](http://qunitjs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [murphysarah22/jquery.i18n](https://github.com/murphysarah22/jquery.i18n)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|01/30/24 <br/>Report generated|
+|12<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
